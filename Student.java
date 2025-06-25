@@ -13,7 +13,7 @@ class Student{
   }
 
   public void PrintStudent(){
-    System.out.print("ID : "+this.id+" Name : "+this.name);
+    System.out.println("ID : "+this.id+" Name : "+this.name);
   }
 
   public void setId(String id){
